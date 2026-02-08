@@ -1,0 +1,4 @@
+pyrogram
+pytgcrypto
+tortoise-orm
+aiohttp

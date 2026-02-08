@@ -1,0 +1,26 @@
+{
+    "start": {
+        "en": "Hi **{name}**، Welcome❤️\n\n\nSend /help command to get bot guide.",
+        "fa": "سلام **{name}**، خوش آمدید ❤️\n\nجهت دریافت راهنمای بات دستور /help را ارسال کنید."
+    },
+    "waiting": {
+        "en": "Receiving information, Please wating ....",
+        "fa": "درحال دریافت اطلاعات، لطفا کمی صبر کنید ..."
+    },
+    "caption": {
+        "en": "Downloaded by: {bot_id}",
+        "fa": "دانلود شده توسط: {bot_id}"
+    },
+    "spotify_caption": {
+        "en": "**Title:** [{title}]({cover})\n**Artist:** {artist}\n**Album:** {album}\n**Duration:** {duration}",
+        "fa": "**عنوان:** [{title}]({cover})\n**خواننده:** {artist}\n**آلبوم:** {album}\n**مدت:** {duration}"
+    },
+    "added_group": {
+        "en": "Hello everyone, Bot as been successfully added to the {name} group.\n\nSend /help command to get bot guide.",
+        "fa": "سلام به همگی ❤️، بات با موفقیت به گروه {name} اضافه شد.\n\nجهت دریافت راهنمای بات دستور /help را ارسال کنید."
+    },
+    "help": {
+        "en": "Multi bot has the ability to download from different platforms (Instagram, Spotify, YouTube, etc.) To use the bot, just send the link you want to the bot in the POV or group.",
+        "fa": "مولتی بات قابلیت دانلود از پلتفرم های مختلف را دارد (اینستاگرام، اسپاتیفای، یوتیوب  و....) برای استفاده از بات کافیه لینک مورد نظر خودتون رو در پیوی یا گروه برای بات ارسال کنید."
+    }
+}
